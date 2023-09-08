@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-#  DDos Attack Tool v1.0
+#  DDos Attack Tool v10.0
 
 
 from queue import Queue
@@ -73,7 +73,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer-DDos Attack Tool v1.0
+	print (''' \033[92m	Hammer-DDos Attack Tool v10.0
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
 	usage : python3 hammer.py [-s] [-p] [-t]
