@@ -14,4 +14,4 @@ then <br>
 $ cd Hammer<br>
 $ python3 hammer.py -s 127.0.0.1  -p 80 -t 50000<br>
 example:<br>
-$ python hammer.py -s your ip -p 80 -t 50000<br>
+$ python hammer.py -s [your ip] -p 80 -t 50000<br>
