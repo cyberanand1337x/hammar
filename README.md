@@ -12,6 +12,6 @@ Note the IP Address of that Website<br>
 
 then <br>
 $ cd Hammer<br>
-$ python hammer.py -s [ip Address] -t 50000<br>
+$ python3 hammer.py -s 127.0.0.1 -t 50000<br>
 example:<br>
 $ python hammer.py -s 123.45.67.89 -t 50000<br>
